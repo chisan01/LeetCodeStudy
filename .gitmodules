@@ -1,3 +1,6 @@
 [submodule "LeetCodeRecord"]
 	path = LeetCodeRecord
 	url = https://github.com/chisan01/LeetCodeRecord
+[submodule "Study_Algorithm"]
+	path = Study_Algorithm
+	url = https://github.com/sarah2234/Study_Algorithm
