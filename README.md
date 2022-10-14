@@ -10,4 +10,10 @@
   <a href="https://leetcode.com/alswnsp411/">
     <img src="https://leetcard.jacoblin.cool/alswnsp411?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode 프로필 (alswnsp411)" height="300">
   </a>
+  <a href="https://leetcode.com/poonghyerim/">
+    <img src="https://leetcard.jacoblin.cool/poonghyerim?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode 프로필 (poonghyerim)" height="300">
+  </a>
+  <a href="https://leetcode.com/alswnsp411/">
+    <img src="https://leetcard.jacoblin.cool/alswnsp411?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode 프로필 (alswnsp411)" height="300">
+  </a>
 </p>
